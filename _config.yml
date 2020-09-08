@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: daekyoung
+title: My Resume
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
@@ -11,10 +11,6 @@ chrome_mobile_color: #e67e22 #use hex colors (ex:#1976d2) or leave empty if you 
 
 # Tracker
 analytics: UA-83979019-1
-
-# Color schemes
-color-1: '#d35400'
-color-2: '#e67e22'
 
 # Sass/SCSS
 sass:
