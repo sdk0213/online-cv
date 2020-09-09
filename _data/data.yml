@@ -26,11 +26,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: 책읽기12
-        link:
+      - item: 독서
+        link: https://sudeky.tistory.com/
 
       - item: 자전거타기
-        link:
+        link: 
 
 career-profile:
     title: Career Profile
